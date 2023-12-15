@@ -569,9 +569,9 @@ background: linear-gradient(207deg, rgba(255, 254, 254, 0.572) 3%, rgba(195, 255
 .para-14{
     font-size: 36px;
     margin:00px 20% 32px 00px;
-    background: -webkit-linear-gradient(45deg, rgb(87, 112, 89) 3%, rgb(39, 193, 54) 50%);
+/*     background: -webkit-linear-gradient(45deg, rgb(87, 112, 89) 3%, rgb(39, 193, 54) 50%); */
     
-    -webkit-text-fill-color: transparent;
+/*     -webkit-text-fill-color: transparent; */
 }
 .para-13{
     font-size: 36px;
